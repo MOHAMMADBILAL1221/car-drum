@@ -1,0 +1,45 @@
+.barbtn{
+border-radius: none;
+position: relative;
+bottom: 330px;
+}
+.heading{
+ bottom: 400px;
+    position: relative;
+font-size: 30px;
+font-weight: bold;
+}
+.head{
+    position: relative;
+    bottom: 370px;
+    font-size: 100px !important  ;
+    font-weight: bold;
+}
+.head2{
+    font-size: 100px;
+}
+.head3{
+    font-size: 60px;
+}
+.image{
+position: relative;
+left: 40px;
+}
+.icon{
+    font-size: 40px;
+}
+.pera{
+    font-size: 20px;
+padding-top: 20px !important;
+}
+.icon1{
+    font-size: 40px;
+    margin-top: 30px;
+    background-color: yellow;
+    padding: 20px;
+}
+.head3{
+    font-size:70px ;
+    margin-top: 22px
+;
+}
